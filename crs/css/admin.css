@@ -1,0 +1,33 @@
+
+/*Admins*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+th, td{
+    padding: 10px;
+}
+
+th{
+    background: #606060;
+    color: #fff;
+}
+
+td{
+    background: #b5b5b5;
+}
+
+.del{
+    color: red;
+}
+
+.edit_form{
+    margin: 0;
+    padding: 10px;
+}
